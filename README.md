@@ -5,9 +5,9 @@
 The project is developed within the thesis of Bachelor's graduation.
 
 Requirements:
-> CUDA >= 8.0
-> Qt 5.2
-> OpenGL >= 3.3
+- CUDA >= 8.0
+- Qt 5.2
+- OpenGL >= 3.3
 
 Soundwave example:
 
